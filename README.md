@@ -75,8 +75,8 @@ Sales-Dashboard-PowerBI
 Created by Alahmady Ali Elghoul.  
 Feel free to connect with me on[[LinkedIn](al-ahmady-ali-479a941a8](https://www.linkedin.com/in/al-ahmady-ali-479a941a8)).
 
-
-git remote add origin "SalesDashboard.pbix"
+git add SalesDashboard.pbix
 git branch -M main
+git commit -m "Re-add PBIX and Excel files"
 git push -u origin main
 
