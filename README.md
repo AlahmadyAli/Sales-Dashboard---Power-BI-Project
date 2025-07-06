@@ -39,6 +39,7 @@ The dashboard covers different business segments, geographic regions, and produc
 ## 📂 Project Structure
 
 Sales-Dashboard-PowerBI/
+
 ├── SalesDashboard.pbix # Power BI project file
 ├── Screenshots/ # (Optional) Dashboard screenshots
 │ ├── dashboard_1.png
@@ -63,14 +64,20 @@ Sales-Dashboard-PowerBI/
 3. Refresh the data connections if necessary.
 
 ## 📷 Dashboard Preview
-_(You can add screenshots in the `/Screenshots/` folder and link them here.)_
+_(D:\py\Bi Tools\1111111111111\Sales-Dashboard-PowerBI\Screenshots)_
 
 Example:
-![Dashboard Screenshot 1](Screenshots/dashboard_1.png)
-![Dashboard Screenshot 2](Screenshots/dashboard_2.png)
+![Dashboard Screenshot 1](dashboard_1.png)
+![Dashboard Screenshot 2](dashboard_2.png)
+![Dashboard Screenshot 2](dashboard_3.png)
 
 ---
 
 ## 🤝 Contact
 Created by Alahmady Ali Elghoul.  
 Feel free to connect with me on [LinkedIn](https://linkedin.com).
+
+git remote add origin [https://github.com/اسم-المستخدم/اسم-الريبو.git](https://github.com/AlahmadyAli/Sales-Dashboard---Power-BI-Project.git)
+git branch -M main
+git push -u origin main
+
