@@ -42,7 +42,7 @@ The dashboard covers different business segments, geographic regions, and produc
  
 [Sample - Superstore.xlsx](https://github.com/user-attachments/files/21092633/Sample.-.Superstore.xlsx)
 
-[Uploading SalesDashboard.pbix.pbix…]()
+[SalesDashboard.pbix.pbix…]()
 
 
 ![dashboard_1 png](https://github.com/user-attachments/assets/21844ef1-1294-415a-a2f4-f56c6b76859d)
@@ -51,7 +51,7 @@ The dashboard covers different business segments, geographic regions, and produc
 
 ![dashboard_3 png](https://github.com/user-attachments/assets/e0076904-b823-4658-9d3c-ecd24cfd7bd8)
 
-D:\py\Bi Tools\1111111111111\Sales-Dashboard-PowerBI
+Sales-Dashboard-PowerBI
 
 
 
@@ -68,19 +68,12 @@ D:\py\Bi Tools\1111111111111\Sales-Dashboard-PowerBI
 2. Open the `SalesDashboard.pbix` file in Power BI Desktop.
 3. Refresh the data connections if necessary.
 
-## 📷 Dashboard Preview
-_(D:\py\Bi Tools\1111111111111\Sales-Dashboard-PowerBI\Screenshots)_
-
-Example:
-![Dashboard Screenshot 1](dashboard_1.png)
-![Dashboard Screenshot 2](dashboard_2.png)
-![Dashboard Screenshot 2](dashboard_3.png)
 
 ---
 
 ## 🤝 Contact
 Created by Alahmady Ali Elghoul.  
-Feel free to connect with me on [LinkedIn](https://linkedin.com).
+Feel free to connect with me on[[LinkedIn](al-ahmady-ali-479a941a8](https://www.linkedin.com/in/al-ahmady-ali-479a941a8)).
 
 git remote add origin [https://github.com/اسم-المستخدم/اسم-الريبو.git](https://github.com/AlahmadyAli/Sales-Dashboard---Power-BI-Project.git)
 git branch -M main
