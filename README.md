@@ -38,15 +38,17 @@ The dashboard covers different business segments, geographic regions, and produc
 
 ## 📂 Project Structure
 
-Sales-Dashboard-PowerBI/
+https://github.com/AlahmadyAli/Sales-Dashboard---Power-BI-Project
 
-├── SalesDashboard.pbix # Power BI project file
-├── Screenshots/ # (Optional) Dashboard screenshots
-│ ├── dashboard_1.png
-│ ├── dashboard_2.png
-│ ├── dashboard_3.png
+D:\py\Bi Tools\1111111111111\Sales-Dashboard-PowerBI
 
-└── README.md # Project documentation
+![dashboard_1 png](https://github.com/user-attachments/assets/21844ef1-1294-415a-a2f4-f56c6b76859d)
+
+![dashboard_2 png](https://github.com/user-attachments/assets/681e6916-d6d2-40fc-8fbf-0965d0d6ea08)
+
+![dashboard_3 png](https://github.com/user-attachments/assets/e0076904-b823-4658-9d3c-ecd24cfd7bd8)
+
+D:\py\Bi Tools\1111111111111\Sales-Dashboard-PowerBI
 
 
 
