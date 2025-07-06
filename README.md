@@ -38,9 +38,12 @@ The dashboard covers different business segments, geographic regions, and produc
 
 ## 📂 Project Structure
 
-https://github.com/AlahmadyAli/Sales-Dashboard---Power-BI-Project
+ https://github.com/AlahmadyAli/Sales-Dashboard---Power-BI-Project
+ 
+[Sample - Superstore.xlsx](https://github.com/user-attachments/files/21092633/Sample.-.Superstore.xlsx)
 
-D:\py\Bi Tools\1111111111111\Sales-Dashboard-PowerBI
+[Uploading SalesDashboard.pbix.pbix…]()
+
 
 ![dashboard_1 png](https://github.com/user-attachments/assets/21844ef1-1294-415a-a2f4-f56c6b76859d)
 
