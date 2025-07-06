@@ -75,7 +75,7 @@ Sales-Dashboard-PowerBI
 Created by Alahmady Ali Elghoul.  
 Feel free to connect with me on[[LinkedIn](al-ahmady-ali-479a941a8](https://www.linkedin.com/in/al-ahmady-ali-479a941a8)).
 
-git remote add origin [https://github.com/اسم-المستخدم/اسم-الريبو.git](https://github.com/AlahmadyAli/Sales-Dashboard---Power-BI-Project.git)
+git remote add origin (https://github.com/alahmady/Sales-Dashboard-PowerBI)
 git branch -M main
 git push -u origin main
 
