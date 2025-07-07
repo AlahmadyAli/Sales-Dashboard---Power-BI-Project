@@ -45,7 +45,7 @@ The dashboard covers different business segments, geographic regions, and produc
 [SalesDashboard.pbix.pbix…]()
 
 
-![dashboard_1 png](https://github.com/user-attachments/assets/21844ef1-1294-415a-a2f4-f56c6b76859d)
+![dashboard_1 png](https://github.com/user-attachments/assets/c601a375-2346-43f2-b325-c74f1084108b)
 
 ![dashboard_2 png](https://github.com/user-attachments/assets/681e6916-d6d2-40fc-8fbf-0965d0d6ea08)
 
