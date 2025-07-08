@@ -72,8 +72,9 @@ Sales-Dashboard-PowerBI
 ---
 
 ## 🤝 Contact
+
 Created by Alahmady Ali Elghoul.  
-Feel free to connect with me on [(https://www.linkedin.com/in/al-ahmady-ali-479a941a8)).
+Let's connect on [LinkedIn](https://www.linkedin.com/in/al-ahmady-ali-479a941a8). 
 
 git add [SalesDashboard.pbix](https://github.com/AlahmadyAli/Sales-Dashboard---Power-BI-Project.git)
 git branch -M main
