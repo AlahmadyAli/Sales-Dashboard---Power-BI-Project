@@ -76,6 +76,6 @@ Sales-Dashboard-PowerBI
 Created by Alahmady Ali Elghoul.  
 Let's connect on [LinkedIn](https://www.linkedin.com/in/al-ahmady-ali-479a941a8). 
 
- [Email]
- (alahmedyali4@gmail.com)
+ Email:
+ alahmedyali4@gmail.com
 
